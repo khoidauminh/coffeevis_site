@@ -1,16 +1,16 @@
 const VIDEO_PATHS = [
-    "../public/cvis-1.mp4",
-    "../public/cvis-2.mp4",
-    "../public/cvis-3.mp4",
-    "../public/cvis-4.mp4",
-    "../public/cvis-5.mp4",
-    "../public/cvis-6.mp4",
-    "../public/cvis-7.mp4",
-    "../public/cvis-8.mp4",
-    "../public/cvis-9.mp4",
-    "../public/cvis-10.mp4",
-    "../public/cvis-11.mp4",
-    "../public/cvis-12.mp4",
+    "public/cvis-1.mp4",
+    "public/cvis-2.mp4",
+    "public/cvis-3.mp4",
+    "public/cvis-4.mp4",
+    "public/cvis-5.mp4",
+    "public/cvis-6.mp4",
+    "public/cvis-7.mp4",
+    "public/cvis-8.mp4",
+    "public/cvis-9.mp4",
+    "public/cvis-10.mp4",
+    "public/cvis-11.mp4",
+    "public/cvis-12.mp4",
 ];
 
 let VIDEO_INDEX = 0;
