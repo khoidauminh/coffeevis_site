@@ -1,0 +1,16 @@
+@media screen and (max-width: 1000px) {
+    .column {
+        width: 100%;
+    }
+
+    .column .column-right {
+        text-align: center;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .column .column-right .box {
+        justify-content: center;
+    }
+}

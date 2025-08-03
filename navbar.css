@@ -1,0 +1,46 @@
+/* Style the navbar */
+.navbar {
+    position: fixed;
+    display: block;
+
+    width: auto;
+
+    right: 0;
+
+    border-radius: 3rem;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.navbar-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-content img {
+    width: 2rem;
+    height: auto;
+    border-radius: 50%;
+}
+
+.navbar-content a {
+    color: #f2f2f2;
+    text-align: center;
+
+    padding: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 64px;
+    margin: 5px;
+    transition: 0.075s;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.content {
+    padding: 8px;
+}
