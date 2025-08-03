@@ -36,7 +36,7 @@ export function homePage() {
                             >
                                 <b>Install (version 0.5.1)</b>
                                 <img
-                                    src="../public/linux_logo_icon_181333.png"
+                                    src="public/linux_logo_icon_181333.png"
                                     alt="Linux logo"
                                     width=40
                                     height=40
